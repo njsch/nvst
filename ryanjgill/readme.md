@@ -1,0 +1,2 @@
+# Smart Terrarium
+Original project page is [here](https://create.arduino.cc/projecthub/ryanjgill2/smart-terrarium-b6fa04). Github code repos are [here](https://github.com/ryanjgill/smart-terrarium-app) for the app and [here](https://github.com/ryanjgill/smart-terrarium-client) for the client.

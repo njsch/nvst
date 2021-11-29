@@ -1,3 +1,5 @@
+See [here](https://github.com/gfrenzel/habitathub) for the original project repo on Github. Its associated Arduino Project Hub page can be found [here](https://create.arduino.cc/projecthub/jfforever70/habitat-hub-an-alexa-and-arduino-smart-home-for-terrariums-8c3f1a).
+
 # Habitat Hub
 Habitat Hub: An Alexa and Arduino Smart Home for terrariums.
 
