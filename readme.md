@@ -1,5 +1,5 @@
 # NonVisual Smart Terrarium (NVST)
-## An Accessible Means of Monitor and Controlling Your Pet Reptile's Synthetic Environment With Ease
+## An Accessible Means of Monitori]ng and Controlling Your Pet Reptile's Synthetic Environment With Ease
 Currently, this project is part of a dream indefinitely on hold, partly due to my being in a sharehouse with housemates, a couple of whom are understandably uncomfortable with the notion of a pet snake in their house; and it requires more research on my own part anyway.  I also need more room in my house.
 
 What I would like is for this repository to host the code for any sensors and apps use for this project.  The idea is inspired by (and will probably be partly, directly based upon) the following three [Arduino](https://www.arduino.cc/) projects:
